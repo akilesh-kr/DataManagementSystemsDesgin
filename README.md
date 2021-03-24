@@ -1,4 +1,4 @@
-# Data Management Systems Desgin
+# Data Management Systems Design
 ## The WALLET Payment Network
 
 ### Purpose of this project
